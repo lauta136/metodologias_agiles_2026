@@ -235,7 +235,7 @@ Usando la técnica "Start, Stop, Continue", identifica:
 - **En la Sprint Retrospective se puede modificar el Sprint Backlog.** → **F**. La Retrospectiva inspecciona al equipo y su proceso de trabajo, no los artefactos del Sprint en curso.
 - **El Sprint puede cancelarse solo por decisión del Development Team.** → **F**. Únicamente el Product Owner tiene autoridad para cancelar un Sprint, y solo si el Sprint Goal quedó obsoleto.
 
-## EJERCICIOS DE APLICACIÓN
+### EJERCICIOS DE APLICACIÓN
 
 #### Ejercicio 4: Creación de Product Backlog — App de delivery de comida
 
