@@ -24,7 +24,7 @@ Los valores que guían la metodología son:
 *   **Respeto:** Valorar las contribuciones de cada miembro y el bienestar del equipo.
 
 ### 3. La importancia de las pruebas
-En XP, las pruebas son el **elemento fundamental** porque permiten integrar el desarrollo en un proceso de construcción continua, creando una plataforma estable para el crecimiento futuro del sistema. Todos los desarrolladores deben escribirlas mientras crean el código de producción, asegurando que la calidad sea intrínseca y no un paso final [4].
+En XP, las pruebas son el **elemento fundamental** porque permiten integrar el desarrollo en un proceso de construcción continua, creando una plataforma estable para el crecimiento futuro del sistema. Todos los desarrolladores deben escribirlas mientras crean el código de producción, asegurando que la calidad sea intrínseca y no un paso final.
 
 ### 4. Test Driven Development (TDD)
 TDD (Desarrollo Dirigido por las Pruebas) es una práctica central de XP donde se escriben las **pruebas antes que cualquier código**. Se basa en un ciclo de "test, code, refactor" (rojo, verde, refactorizar), lo que ayuda a aclarar el alcance del código, mejora la cohesión y construye confianza entre compañeros.
